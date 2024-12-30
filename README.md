@@ -1,9 +1,5 @@
 # Intents-Based Chatbot with Streamlit
 
-<img src="./images/chatbot.png"/>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/sannketnikam/chatbot)
-
 The goal of this project is to create a chatbot that can understand and respond to user input based on intents. The chatbot is built using Natural Language Processing (NLP) library and Logistic Regression, to extract the intents and entities from user input. The chatbot is built using Streamlit, a Python library for building interactive web applications.
 
 # Project Overview
@@ -13,15 +9,11 @@ The project is divided into two parts:
 
 # Getting Started
 - To get started with this project, follow these steps:
-1. Clone this repository to your local machine.
-```
-git clone https://github.com/SannketNikam/Chatbot.git
-```
 1. Install the required Python libraries using:
 ```
 pip install -r requirements.txt
 ```
-3. Run streamlit app to launch the chatbot interface.
+2. Run streamlit app to launch the chatbot interface.
 ```
 streamlit run app.py
 ```
